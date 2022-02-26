@@ -5,3 +5,8 @@ How to Run
 
 npm install
 npm run start
+
+# Code Screenshots
+
+![Index](index.png)
+![Direcotry](directory.png)
